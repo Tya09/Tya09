@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tya09
 - 👀 I’m interested in Techonology especially in Mobile Development and Artificial Intelligence
 - 🌱 I’m currently learning basic for programming
-- 💞️ I’m looking to collaborate on making mini project for our CV
+- 💞️ I’m looking to collaborate on making mini project for fun
 - 📫 How to reach me syarifahristya09@gmail.com
 
 <!---
